@@ -1,6 +1,10 @@
 ### Hi there 👋
 
  🌱 I’m currently learning Node.js in GOIT Academy
+ 
+#### 🔥 My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Natatashkin&theme=dark)](https://git.io/streak-stats)
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -18,3 +22,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
 </div>
+
+####
