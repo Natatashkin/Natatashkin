@@ -13,7 +13,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="54" title="Figma" alt="Figma" width="40" height="40" &nbsp; />
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="54" title="Canva" alt="Canva" width="40" height="40" &nbsp; />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="54" title="Git" alt="Git" width="40" height="40" &nbsp; />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="54" title="Git" alt="Git" width="40" height="40" &nbsp; />
-  
- 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="54" title="Eslint" alt="Eslint" width="40" height="40" &nbsp; />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="54" title="npm" alt="npm" width="40" height="40" &nbsp; />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
 </div>
