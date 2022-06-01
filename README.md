@@ -2,7 +2,7 @@
 
  🌱 I’m currently learning Node.js in GOIT Academy
  
-#### 🔥 My Stats
+#### 🔥 My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Natatashkin&theme=dark)](https://git.io/streak-stats)
 
