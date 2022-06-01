@@ -1,10 +1,13 @@
 ### Hi there 👋
 
  🌱 I’m currently learning Node.js in GOIT Academy
+ <hr/>
  
 #### 🔥 My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Natatashkin&theme=dark)](https://git.io/streak-stats)
+
+<hr/>
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
