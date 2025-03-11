@@ -23,10 +23,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="54" title="Eslint" alt="Eslint" width="40" height="40" &nbsp; />
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="54" title="npm" alt="npm" width="40" height="40" &nbsp; />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sanity/sanity-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="54" title="yarn" alt="yarn" width="40" height="40" &nbsp; />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="54" title="nextjs" alt="nextjs" width="40" height="40" &nbsp; />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="54" title="nuxtjs" alt="nuxtjs" width="40" height="40" &nbsp; />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sanity/sanity-original.svg" width="54" title="sanity" alt="sanity" width="40" height="40" &nbsp; />
  
 </div>
 
