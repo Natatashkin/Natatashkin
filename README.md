@@ -27,6 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="54" title="nextjs" alt="nextjs" width="40" height="40" &nbsp; />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="54" title="nuxtjs" alt="nuxtjs" width="40" height="40" &nbsp; />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sanity/sanity-original.svg" width="54" title="sanity" alt="sanity" width="40" height="40" &nbsp; />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="54" title="react" alt="react" width="40" height="40" &nbsp; />
+  
  
 </div>
 
