@@ -24,5 +24,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="54" title="npm" alt="npm" width="40" height="40" &nbsp; />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sanity/sanity-original.svg" width="54" title="vscode" alt="vscode" width="40" height="40" &nbsp; />
+ 
 </div>
 
